@@ -51,6 +51,10 @@ h6{
 
 .navbar {
 	background-color: #ACD5C9;
+	font-family: 'Phudu';
+	font-weight: 500;
+	font-size: 15px;
+	color: white;
 }
 
 /* Effect on social media buttons */
