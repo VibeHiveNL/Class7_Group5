@@ -65,7 +65,7 @@ footer a:hover {
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #ACD5C9;
+	background-color: #AAFAE4;
 	font-family: 'Phudu';
 	font-weight: 500;
 	font-size: 15px;
@@ -95,6 +95,11 @@ footer a:hover {
 	wide: 140px;
 	height: 150px;
 }
-.calltoaction{
-	text-decoration-color: aquamarine;
+.btn{
+	background-color: #5B4D7B;
+	color: aqua;
+	border-color: burlywood;
+}
+.reward{
+	border-bottom-color: #5B4D7B;
 }
