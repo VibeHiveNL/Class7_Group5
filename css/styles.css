@@ -7,6 +7,7 @@
 body {
 	font-family: 'Fira Sans';
 	font-weight: 300;
+	font-size: 15px;
 	background-color: #fffcf8;
 }
 
@@ -19,32 +20,34 @@ header {
 h1{
 	font-family: 'Phudu';
 	font-weight: 700;
-	font-size: 80px;
+	font-size: 60px;
+	padding: 10px;
 }
 h2{
 	font-family: 'Phudu';
 	font-weight: 600;
-	font-size: 30px;
+	font-size: 40px;
+	padding: 7px;
 }
 h3{
 	font-family: 'Phudu';
 	font-weight: 500;
-	font-size: 25px;
+	font-size: 30;
 }
 h4{
 	font-family: 'Phudu';
 	font-weight: 500;
-	font-size: 20px;
+	font-size: 25px;
 }
 h5{
 	font-family: 'Phudu';
 	font-weight: 500;
-	font-size: 17px;
+	font-size: 20px;
 }
 h6{
 	font-family: 'Phudu';
 	font-weight: 500;
-	font-size: 16px;
+	font-size: 18px;
 }
 
 /* Effect on social media buttons */
@@ -77,15 +80,18 @@ footer a:hover {
 .image {
 	wide: 30%;
 	height: 30%;
-	object-fit: contain;
+	object-fit50px: contain;
 }
 .boxleft{
-	background-color: beige;
+	background-color: #458573;
+	color: white;
 	padding: 5%;
 }
 .boxright{
 	padding: 2%;
 }
-.col-lg-3{
-
+.valueimage{
+	object-fit: cover;
+	wide: 140px;
+	height: 140px;
 }
