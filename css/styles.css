@@ -55,21 +55,25 @@ h6{
 footer a:hover {
 	opacity: .5;
 }
-
+.footer{
+	background-color: ghostwhite;
+}
 /* Corporate navbar */
 
-#navbar-corporate a.active {
-	color: #800000;
-	font-weight: bold;
+#navbar a:hover {
+	color: ghostwhite;
+	font-family: 'Phudu';
+	font-weight: 500;
+	background-color: #DED0FF;
 }
 /* Changing the background color for the navigation bar */
 
 .navbar {
-	background-color: #AAFAE4;
 	font-family: 'Phudu';
 	font-weight: 500;
 	font-size: 15px;
 	color: white;
+	background-color: #DED0FF;
 }
 /* classes */ 
 .btn {
@@ -82,13 +86,17 @@ footer a:hover {
 	height: 30%;
 	object-fit50px: contain;
 }
+.background{
+	background-color: #DED0FF;
+}
 .boxleft{
 	background-color: #458573;
-	color: white;
+	color: ghostwhite;
 	padding: 5%;
 }
 .boxright{
 	padding: 2%;
+	background-color: ghostwhite;
 }
 .valueimage{
 	object-fit: cover;
@@ -96,9 +104,9 @@ footer a:hover {
 	height: 150px;
 }
 .btn{
-	background-color: #5B4D7B;
+	background-color: #0ACC96;
 	color: white;
 }
 .reward{
-	border-bottom-color: #5B4D7B;
+	border-bottom-color: #AC87FF !important;
 }
