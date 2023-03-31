@@ -105,21 +105,21 @@ footer a:hover {
 	height: 150px;
 }
 .btn{
-	background-color: deeppink;
+	background-color: clear;
+	border-width: medium;
+	border-color: ghostwhite;
 	color: ghostwhite;
-	padding: 5px;
+	padding: 10px;
 }
 btn:hover {
 	background-color: ghostwhite;
 	color: #373737;
 }
 
-.btnx{
-	background-color: clear;
-	border: medium;
-	border-bottom-style:dashed;
-	border-color: aqua;
-	color: white;
+.invest {
+	background-color: #0ACC96 !important;
+	color: ghostwhite !important;
+	padding: 3px !important;
 }
 .reward{
 	border-bottom-color: #AC87FF !important;
