@@ -111,16 +111,17 @@ footer a:hover {
 	color: ghostwhite;
 	padding: 10px;
 }
-btn:hover {
-	background-color: ghostwhite;
-	color: #373737;
+.btn:hover {
+	background-color: #0ACC96;
+	color: ghostwhite;
 }
 
 .invest {
 	background-color: #0ACC96 !important;
 	color: ghostwhite !important;
-	padding: 3px !important;
+	padding: 5px !important;
 }
+
 .reward{
 	border-bottom-color: #AC87FF !important;
 }
