@@ -93,5 +93,8 @@ footer a:hover {
 .valueimage{
 	object-fit: cover;
 	wide: 140px;
-	height: 140px;
+	height: 150px;
+}
+.calltoaction{
+	text-decoration-color: aquamarine;
 }
