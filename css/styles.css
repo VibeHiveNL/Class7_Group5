@@ -73,7 +73,12 @@ footer a:hover {
 	font-weight: 500;
 	font-size: 15px;
 	color: #373737;
-	
+}
+.nav-link:hover {
+	font-family: 'Phudu';
+	font-weight: 500;
+	font-size: 15px;
+	color: #5B4D7B ;
 }
 /* classes */ 
 .btn {
