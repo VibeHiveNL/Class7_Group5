@@ -106,22 +106,21 @@ footer a:hover {
 }
 .btn{
 	background-color: clear;
-	border-width: medium;
+	border-width: thick;
 	border-color: ghostwhite;
 	color: ghostwhite;
-	padding: 10px;
+	padding: 5px;
 }
 .btn:hover {
-	background-color: #0ACC96;
-	color: ghostwhite;
+	background-color: ghostwhite;
+	color: #373737;
 }
 
 .invest {
 	background-color: #0ACC96 !important;
 	color: ghostwhite !important;
-	padding: 5px !important;
+	padding: 2px !important;
 }
-
 .reward{
 	border-bottom-color: #AC87FF !important;
 }
