@@ -56,24 +56,24 @@ footer a:hover {
 	opacity: .5;
 }
 .footer{
-	background-color: ghostwhite;
+	background-color: #373737;
+}
+.container{
+	color: ghostwhite;
 }
 /* Corporate navbar */
 
-#navbar a:hover {
-	color: ghostwhite;
-	font-family: 'Phudu';
-	font-weight: 500;
-	background-color: #DED0FF;
-}
-/* Changing the background color for the navigation bar */
 
-.navbar {
+/* Changing the background color for the navigation bar */
+.navbar{
+	background-color: #92F9DD;
+}
+.nav-link {
 	font-family: 'Phudu';
 	font-weight: 500;
 	font-size: 15px;
-	color: white;
-	background-color: #DED0FF;
+	color: #373737;
+	
 }
 /* classes */ 
 .btn {
@@ -97,6 +97,7 @@ footer a:hover {
 .boxright{
 	padding: 2%;
 	background-color: ghostwhite;
+	color: #373737;
 }
 .valueimage{
 	object-fit: cover;
@@ -104,7 +105,20 @@ footer a:hover {
 	height: 150px;
 }
 .btn{
-	background-color: #0ACC96;
+	background-color: deeppink;
+	color: ghostwhite;
+	padding: 5px;
+}
+btn:hover {
+	background-color: ghostwhite;
+	color: #373737;
+}
+
+.btnx{
+	background-color: clear;
+	border: medium;
+	border-bottom-style:dashed;
+	border-color: aqua;
 	color: white;
 }
 .reward{
