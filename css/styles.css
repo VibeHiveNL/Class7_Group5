@@ -47,16 +47,6 @@ h6{
 	font-size: 16px;
 }
 
-/* Changing the background color for the navigation bar */
-
-.navbar {
-	background-color: #ACD5C9;
-	font-family: 'Phudu';
-	font-weight: 500;
-	font-size: 15px;
-	color: white;
-}
-
 /* Effect on social media buttons */
 
 footer a:hover {
@@ -69,4 +59,26 @@ footer a:hover {
 	color: #800000;
 	font-weight: bold;
 }
+/* Changing the background color for the navigation bar */
 
+.navbar {
+	background-color: #ACD5C9;
+	font-family: 'Phudu';
+	font-weight: 500;
+	font-size: 15px;
+	color: white;
+}
+/* classes */ 
+.btn {
+	font-family: 'Phudu';
+	font-size: 15px;
+	padding: 2px;
+}
+.image {
+	wide: 30%;
+	height: 30%;
+	object-fit: contain;
+}
+.boxleft{
+	background-color: beige
+}
