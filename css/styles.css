@@ -80,5 +80,9 @@ footer a:hover {
 	object-fit: contain;
 }
 .boxleft{
-	background-color: beige
+	background-color: beige;
+	padding: 5%;
+}
+.boxright{
+	padding: 2%;
 }
