@@ -71,7 +71,12 @@ footer a:hover {
 	color: ghostwhite;
 }
 /* Corporate navbar */
-
+.dropdown-item{
+	font-family: 'Phudu';
+	font-weight: 500;
+	font-size: 15px;
+	color: #373737;
+}
 
 /* Changing the background color for the navigation bar */
 .navbar{
