@@ -2,6 +2,15 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Phudu:wght@300;400;500;600;700;800;900&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500&display=swap');
+@font-face {
+    font-family: 'The Youngest';
+    src: local('The Youngest Serif Display'), local('The-Youngest-Serif-Display'),
+        url('TYSerif-D.woff2') format('woff2'),
+        url('TYSerif-D.woff') format('woff'),
+        url('TYSerif-D.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+  }
 /* Changing the main font and background colour */
 
 body {
@@ -40,12 +49,12 @@ h4{
 	font-size: 25px;
 }
 h5{
-	font-family: 'Phudu';
-	font-weight: 500;
+	font-family: 'The Youngest';
+	font-weight: 400;
 	font-size: 20px;
 }
 h6{
-	font-family: 'Phudu';
+	font-family: 'The Youngest';
 	font-weight: 500;
 	font-size: 18px;
 }
