@@ -138,3 +138,30 @@ footer a:hover {
 .reward{
 	border-bottom-color: #AC87FF !important;
 }
+
+
+/* Style for the image container */
+		.img-container {
+			position: relative;
+			
+		}
+
+		/* Style for the image popup */
+		.img-popup {
+			display: none;
+			position: absolute;
+			top: 100%;
+			left: 50%;
+			transform: translate(-50%, 10px);
+			z-index: 1;
+			padding: 10px;
+			background-color: #fff;
+			box-shadow: 0px 0px 5px #999;
+			border-radius: 5px;
+			text-align: center;
+		}
+
+		/* Style for the image when hovered */
+		.img-container:hover .img-popup {
+			display: block;
+		}
