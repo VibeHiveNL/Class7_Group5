@@ -77,6 +77,9 @@ footer a:hover {
 	font-size: 15px;
 	color: #373737;
 }
+.dropdown-menu{
+	background-color: ghostwhite;
+}
 
 /* Changing the background color for the navigation bar */
 .navbar{
