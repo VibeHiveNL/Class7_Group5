@@ -204,8 +204,19 @@ td,tr{
 .marketingimage{
 	height: 50%;
 	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
 }
-.tryout
+.marketingtop{
+	height: 50%;
+	width: 100%;
+	padding-top: 15px;
+}
+.marketingbottom{
+	height: 50%;
+	width: 100%;
+	padding-bottom: 15px;
+}
 .row{
 	padding-top: 15px;
 	padding-bottom: 15px;
