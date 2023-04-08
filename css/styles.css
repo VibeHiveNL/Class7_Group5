@@ -201,3 +201,11 @@ td,tr{
 	height: 100%;
 	width: 45%;
 }
+.marketingimage{
+	height: 50%;
+	width: 100%;
+}
+.row{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
