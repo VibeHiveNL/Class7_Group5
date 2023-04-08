@@ -197,6 +197,7 @@ td,tr{
 		.img-container:hover .img-popup {
 			display: block;
 		}
-.carousel-control-prev{
-	
+.img-thumbnail{
+	height: 100%;
+	width: 45%;
 }
