@@ -64,6 +64,9 @@ h6{
 footer a:hover {
 	opacity: .5;
 }
+.vision {
+	text-align: right;
+}
 .footer{
 	background-color: #373737;
 }
